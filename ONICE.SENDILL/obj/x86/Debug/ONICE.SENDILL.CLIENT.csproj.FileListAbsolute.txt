@@ -1,0 +1,13 @@
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\bin\Debug\ONICE.SENDILL.exe
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\bin\Debug\ONICE.SENDILL.pdb
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\MainWindow.baml
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\App.g.cs
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\ONICE.SENDILL_MarkupCompile.cache
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\ONICE.SENDILL.g.resources
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\ONICE.SENDILL.Properties.Resources.resources
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\ONICE.SENDILL.exe
+C:\Users\Petur\Documents\GitHub\sendill\ONICE.SENDILL\obj\x86\Debug\ONICE.SENDILL.pdb
